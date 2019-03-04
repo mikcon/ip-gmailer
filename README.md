@@ -1,6 +1,6 @@
 # IP Gmailer 
 
-Python program to capture the public ip of the computer running the ip-gmailer and send a simple email containing only the ip address.  The program works by retrieving a json formatted response from https://api.myip.com and emails the json key associated with the ip address.
+Python program to capture the public ip of the computer running ip-gmailer.py and send a simple email containing only the ip address.  The program works by retrieving a json formatted response from https://api.myip.com and then emails the json key value for the ip address.
 
 Clone the respository.  Modify config.py with your settings.
 
